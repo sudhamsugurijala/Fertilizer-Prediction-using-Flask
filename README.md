@@ -1,6 +1,6 @@
 # Fertilizer-Prediction-using-Flask
 
-###Instructions
+### Instructions
 
 * Clone the repository
 * Extract the flaskblog zip file
